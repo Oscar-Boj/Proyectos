@@ -1,0 +1,322 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FA530120-B4A0-4BA1-8EB1-D67EA2FA54BC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>TemarioF2_OscarBoj.My.MyApplication</StartupObject>
+    <RootNamespace>TemarioF2_OscarBoj</RootNamespace>
+    <AssemblyName>TemarioF2-OscarBoj</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>TemarioF2-OscarBoj.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>TemarioF2-OscarBoj.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data">
+      <HintPath>..\mysql-connector-net-8.0.25-noinstall\v4.8\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data.EntityFramework">
+      <HintPath>..\mysql-connector-net-8.0.25-noinstall\v4.8\MySql.Data.EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Web">
+      <HintPath>..\mysql-connector-net-8.0.25-noinstall\v4.8\MySql.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AsistenciasT.Designer.vb">
+      <DependentUpon>AsistenciasT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AsistenciasT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClientesR.Designer.vb">
+      <DependentUpon>ClientesR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ClientesR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EquiposR.Designer.vb">
+      <DependentUpon>EquiposR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EquiposR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EquiposT.Designer.vb">
+      <DependentUpon>EquiposT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EquiposT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Estadisticas.Designer.vb">
+      <DependentUpon>Estadisticas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Estadisticas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IncidenciasR.Designer.vb">
+      <DependentUpon>IncidenciasR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IncidenciasR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IncidenciasT.Designer.vb">
+      <DependentUpon>IncidenciasT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IncidenciasT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InicAbiertaR.Designer.vb">
+      <DependentUpon>InicAbiertaR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InicAbiertaR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InicAbiertaT.Designer.vb">
+      <DependentUpon>InicAbiertaT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InicAbiertaT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InicCrearR.Designer.vb">
+      <DependentUpon>InicCrearR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InicCrearR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InicCrearT.Designer.vb">
+      <DependentUpon>InicCrearT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InicCrearT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuA.Designer.vb">
+      <DependentUpon>MenuA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuInciR.Designer.vb">
+      <DependentUpon>MenuInciR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuInciR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuInciT.Designer.vb">
+      <DependentUpon>MenuInciT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuInciT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menuR.Designer.vb">
+      <DependentUpon>menuR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="menuR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuT.Designer.vb">
+      <DependentUpon>MenuT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuTareaR.Designer.vb">
+      <DependentUpon>MenuTareaR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuTareaR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="TareasAR.Designer.vb">
+      <DependentUpon>TareasAR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TareasAR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TareasR.Designer.vb">
+      <DependentUpon>TareasR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TareasR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TareasT.Designer.vb">
+      <DependentUpon>TareasT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TareasT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VisitasCR.Designer.vb">
+      <DependentUpon>VisitasCR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VisitasCR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AsistenciasT.resx">
+      <DependentUpon>AsistenciasT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClientesR.resx">
+      <DependentUpon>ClientesR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EquiposR.resx">
+      <DependentUpon>EquiposR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EquiposT.resx">
+      <DependentUpon>EquiposT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Estadisticas.resx">
+      <DependentUpon>Estadisticas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IncidenciasR.resx">
+      <DependentUpon>IncidenciasR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IncidenciasT.resx">
+      <DependentUpon>IncidenciasT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InicAbiertaR.resx">
+      <DependentUpon>InicAbiertaR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InicAbiertaT.resx">
+      <DependentUpon>InicAbiertaT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InicCrearR.resx">
+      <DependentUpon>InicCrearR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InicCrearT.resx">
+      <DependentUpon>InicCrearT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuA.resx">
+      <DependentUpon>MenuA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuInciR.resx">
+      <DependentUpon>MenuInciR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuInciT.resx">
+      <DependentUpon>MenuInciT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menuR.resx">
+      <DependentUpon>menuR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuT.resx">
+      <DependentUpon>MenuT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuTareaR.resx">
+      <DependentUpon>MenuTareaR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TareasAR.resx">
+      <DependentUpon>TareasAR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TareasR.resx">
+      <DependentUpon>TareasR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TareasT.resx">
+      <DependentUpon>TareasT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VisitasCR.resx">
+      <DependentUpon>VisitasCR.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

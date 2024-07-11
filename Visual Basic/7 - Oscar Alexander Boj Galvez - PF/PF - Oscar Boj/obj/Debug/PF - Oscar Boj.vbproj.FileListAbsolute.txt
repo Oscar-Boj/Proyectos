@@ -1,0 +1,20 @@
+c:\users\14 biblioteca\documents\visual studio 2015\Projects\PF - Oscar Boj\PF - Oscar Boj\bin\Debug\PF - Oscar Boj.exe.config
+c:\users\14 biblioteca\documents\visual studio 2015\Projects\PF - Oscar Boj\PF - Oscar Boj\bin\Debug\PF - Oscar Boj.exe
+c:\users\14 biblioteca\documents\visual studio 2015\Projects\PF - Oscar Boj\PF - Oscar Boj\bin\Debug\PF - Oscar Boj.pdb
+c:\users\14 biblioteca\documents\visual studio 2015\Projects\PF - Oscar Boj\PF - Oscar Boj\bin\Debug\PF - Oscar Boj.xml
+c:\users\14 biblioteca\documents\visual studio 2015\Projects\PF - Oscar Boj\PF - Oscar Boj\obj\Debug\PF - Oscar Boj.vbprojResolveAssemblyReference.cache
+c:\users\14 biblioteca\documents\visual studio 2015\Projects\PF - Oscar Boj\PF - Oscar Boj\obj\Debug\PF___Oscar_Boj.Administrador.resources
+c:\users\14 biblioteca\documents\visual studio 2015\Projects\PF - Oscar Boj\PF - Oscar Boj\obj\Debug\PF___Oscar_Boj.Estudiante.resources
+c:\users\14 biblioteca\documents\visual studio 2015\Projects\PF - Oscar Boj\PF - Oscar Boj\obj\Debug\PF___Oscar_Boj.Form1.resources
+c:\users\14 biblioteca\documents\visual studio 2015\Projects\PF - Oscar Boj\PF - Oscar Boj\obj\Debug\PF___Oscar_Boj.Resources.resources
+c:\users\14 biblioteca\documents\visual studio 2015\Projects\PF - Oscar Boj\PF - Oscar Boj\obj\Debug\PF - Oscar Boj.vbproj.GenerateResource.Cache
+c:\users\14 biblioteca\documents\visual studio 2015\Projects\PF - Oscar Boj\PF - Oscar Boj\obj\Debug\PF - Oscar Boj.exe
+c:\users\14 biblioteca\documents\visual studio 2015\Projects\PF - Oscar Boj\PF - Oscar Boj\obj\Debug\PF - Oscar Boj.xml
+c:\users\14 biblioteca\documents\visual studio 2015\Projects\PF - Oscar Boj\PF - Oscar Boj\obj\Debug\PF - Oscar Boj.pdb
+c:\users\14 biblioteca\documents\visual studio 2015\Projects\PF - Oscar Boj\PF - Oscar Boj\obj\Debug\PF___Oscar_Boj.TipoCuenta.resources
+c:\users\14 biblioteca\documents\visual studio 2015\Projects\PF - Oscar Boj\PF - Oscar Boj\obj\Debug\PF___Oscar_Boj.Form2.resources
+c:\users\14 biblioteca\documents\visual studio 2015\Projects\PF - Oscar Boj\PF - Oscar Boj\obj\Debug\PF___Oscar_Boj.Libros.resources
+c:\users\14 biblioteca\documents\visual studio 2015\Projects\PF - Oscar Boj\PF - Oscar Boj\obj\Debug\PF___Oscar_Boj.devolucion.resources
+c:\users\14 biblioteca\documents\visual studio 2015\Projects\PF - Oscar Boj\PF - Oscar Boj\obj\Debug\PF___Oscar_Boj.prestamo.resources
+c:\users\14 biblioteca\documents\visual studio 2015\Projects\PF - Oscar Boj\PF - Oscar Boj\obj\Debug\RdlCompile.cache
+c:\users\14 biblioteca\documents\visual studio 2015\Projects\PF - Oscar Boj\PF - Oscar Boj\obj\Debug\RdlCompile.compiled

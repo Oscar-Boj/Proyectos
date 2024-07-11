@@ -1,0 +1,79 @@
+c:\users\informatica\documents\visual studio 2015\Projects\PF1_ADSII\PF1_ADSII\bin\Debug\PF1_ADSII.exe.config
+c:\users\informatica\documents\visual studio 2015\Projects\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.vbprojResolveAssemblyReference.cache
+c:\users\informatica\documents\visual studio 2015\Projects\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.Form1.resources
+c:\users\informatica\documents\visual studio 2015\Projects\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.Resources.resources
+c:\users\informatica\documents\visual studio 2015\Projects\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.vbproj.GenerateResource.Cache
+c:\users\informatica\documents\visual studio 2015\Projects\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.xml
+c:\users\informatica\documents\visual studio 2015\Projects\PF1_ADSII\PF1_ADSII\bin\Debug\PF1_ADSII.exe
+c:\users\informatica\documents\visual studio 2015\Projects\PF1_ADSII\PF1_ADSII\bin\Debug\PF1_ADSII.pdb
+c:\users\informatica\documents\visual studio 2015\Projects\PF1_ADSII\PF1_ADSII\bin\Debug\PF1_ADSII.xml
+c:\users\informatica\documents\visual studio 2015\Projects\PF1_ADSII\PF1_ADSII\bin\Debug\MySql.Data.dll
+c:\users\informatica\documents\visual studio 2015\Projects\PF1_ADSII\PF1_ADSII\bin\Debug\MySql.Data.EntityFramework.dll
+c:\users\informatica\documents\visual studio 2015\Projects\PF1_ADSII\PF1_ADSII\bin\Debug\MySql.Web.dll
+c:\users\informatica\documents\visual studio 2015\Projects\PF1_ADSII\PF1_ADSII\bin\Debug\Google.Protobuf.dll
+c:\users\informatica\documents\visual studio 2015\Projects\PF1_ADSII\PF1_ADSII\bin\Debug\Zstandard.Net.dll
+c:\users\informatica\documents\visual studio 2015\Projects\PF1_ADSII\PF1_ADSII\bin\Debug\K4os.Compression.LZ4.Streams.dll
+c:\users\informatica\documents\visual studio 2015\Projects\PF1_ADSII\PF1_ADSII\bin\Debug\BouncyCastle.Crypto.dll
+c:\users\informatica\documents\visual studio 2015\Projects\PF1_ADSII\PF1_ADSII\bin\Debug\Ubiety.Dns.Core.dll
+c:\users\informatica\documents\visual studio 2015\Projects\PF1_ADSII\PF1_ADSII\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+c:\users\informatica\documents\visual studio 2015\Projects\PF1_ADSII\PF1_ADSII\bin\Debug\System.Buffers.dll
+c:\users\informatica\documents\visual studio 2015\Projects\PF1_ADSII\PF1_ADSII\bin\Debug\K4os.Compression.LZ4.dll
+c:\users\informatica\documents\visual studio 2015\Projects\PF1_ADSII\PF1_ADSII\bin\Debug\K4os.Hash.xxHash.dll
+c:\users\informatica\documents\visual studio 2015\Projects\PF1_ADSII\PF1_ADSII\bin\Debug\MySql.Data.xml
+c:\users\informatica\documents\visual studio 2015\Projects\PF1_ADSII\PF1_ADSII\bin\Debug\MySql.Data.EntityFramework.xml
+c:\users\informatica\documents\visual studio 2015\Projects\PF1_ADSII\PF1_ADSII\bin\Debug\MySql.Web.xml
+c:\users\informatica\documents\visual studio 2015\Projects\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.Form2.resources
+c:\users\informatica\documents\visual studio 2015\Projects\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.Form3.resources
+c:\users\informatica\documents\visual studio 2015\Projects\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.Form4.resources
+c:\users\informatica\documents\visual studio 2015\Projects\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.exe
+c:\users\informatica\documents\visual studio 2015\Projects\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.pdb
+c:\users\informatica\documents\visual studio 2015\Projects\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.Form5.resources
+c:\users\informatica\documents\visual studio 2015\Projects\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.Form6.resources
+c:\users\informatica\documents\visual studio 2015\Projects\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.Form7.resources
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\bin\Debug\PF1_ADSII.exe.config
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.exe
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.xml
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.pdb
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\bin\Debug\PF1_ADSII.exe
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\bin\Debug\PF1_ADSII.pdb
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\bin\Debug\PF1_ADSII.xml
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\bin\Debug\MySql.Data.dll
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\bin\Debug\MySql.Web.dll
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\bin\Debug\Google.Protobuf.dll
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\bin\Debug\Zstandard.Net.dll
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\bin\Debug\System.Buffers.dll
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\bin\Debug\MySql.Data.xml
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\bin\Debug\MySql.Web.xml
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.vbprojResolveAssemblyReference.cache
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.Form1.resources
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.Form2.resources
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.Form3.resources
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.Form4.resources
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.Form5.resources
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.Form6.resources
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.Form7.resources
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.Form8.resources
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.Resources.resources
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.vbproj.GenerateResource.Cache
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.Form9.resources
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\bin\Debug\Guna.UI.dll
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.Form10.resources
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.Form11.resources
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.Form12.resources
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.Form13.resources
+C:\Users\oscar\Downloads\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.Form14.resources
+C:\Users\INFORMATICA\Documents\Visual Studio 2015\Projects\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.Form10.resources
+C:\Users\INFORMATICA\Documents\Visual Studio 2015\Projects\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.Form11.resources
+C:\Users\INFORMATICA\Documents\Visual Studio 2015\Projects\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.Form12.resources
+C:\Users\INFORMATICA\Documents\Visual Studio 2015\Projects\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.Form13.resources
+C:\Users\INFORMATICA\Documents\Visual Studio 2015\Projects\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.Form14.resources
+C:\Users\INFORMATICA\Documents\Visual Studio 2015\Projects\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.Form8.resources
+C:\Users\INFORMATICA\Documents\Visual Studio 2015\Projects\PF1_ADSII\PF1_ADSII\obj\Debug\PF1_ADSII.Form9.resources
